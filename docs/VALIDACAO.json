@@ -1,0 +1,37 @@
+{
+  "checked_at_utc": "2026-11-01T04:52:50.249037+00:00",
+  "pytest": {
+    "passed": 83,
+    "failed": 0,
+    "command": "python -m pytest -q -p no:cacheprovider"
+  },
+  "full_pipeline": {
+    "command": "python -m src.cli --all",
+    "exit_code": 0
+  },
+  "source_materials_hashes_preserved": 11,
+  "map_scenarios": 11,
+  "part2_nodes": 3782,
+  "part2_edges": 24185,
+  "scale_tasks": 12,
+  "case_tasks": 17,
+  "minimum_repetitions": 5,
+  "png_figures": 13,
+  "pdfs": {
+    "RELATORIO_TECNICO.pdf": {
+      "pages": 27,
+      "sha256": "7ce1c8718f0e60c439dd87fe5d78546a8b8ce9e59d88f3c82c0483ed9295ab4a"
+    },
+    "DECLARACAO_IA.pdf": {
+      "pages": 2,
+      "sha256": "2a0ef6e1cc852cdcf654b88277edf16178139112744bfb1a3c28dccd3aa69ad5"
+    }
+  },
+  "browser": {
+    "desktop_width": 1440,
+    "mobile_width": 390,
+    "controls_and_offline_checked": true,
+    "console_errors": 0
+  },
+  "independent_review": "Findings corrected with regression tests; no unresolved technical findings at publication."
+}

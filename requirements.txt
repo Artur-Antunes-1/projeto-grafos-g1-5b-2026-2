@@ -1,4 +1,3 @@
-# Dependências iniciais; ajustar conforme a implementação feita pelo grupo.
-pytest
-pandas
-matplotlib
+# Execução, figuras e relatório. Python >= 3.11.
+matplotlib>=3.8,<4
+reportlab>=4,<5

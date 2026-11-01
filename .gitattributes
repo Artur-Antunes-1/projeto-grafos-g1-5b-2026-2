@@ -1,4 +1,5 @@
 * text=auto eol=lf
-*.pdf -text
+*.pdf binary
+*.png binary
 *.csv -text whitespace=cr-at-eol
 data/mapas/*.txt -text

@@ -1,0 +1,18 @@
+{
+  "g1_01_tres_desvios": {
+    "states": 84,
+    "arcs_without_ALVO": 160,
+    "arcs_with_ALVO": 161,
+    "BFS": 38,
+    "minimum_cost": 39,
+    "traps_fraction": 0.0
+  },
+  "g1_02_queda_sem_volta": {
+    "states": 57,
+    "arcs_without_ALVO": 158,
+    "arcs_with_ALVO": 159,
+    "BFS": 16,
+    "minimum_cost": 16,
+    "traps_fraction": 0.7017543859649122
+  }
+}

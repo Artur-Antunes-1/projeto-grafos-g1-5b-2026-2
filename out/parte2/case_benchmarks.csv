@@ -1,0 +1,86 @@
+﻿algorithm,source,target,case,measurement_origin,repetition,seconds,mean_seconds,median_seconds
+BFS,1,,alcance original por fonte,new_case_measurement,1,0.002273199992487207,0.0019190399965737016,0.0018417999963276088
+BFS,1,,alcance original por fonte,new_case_measurement,2,0.0019044000073336065,0.0019190399965737016,0.0018417999963276088
+BFS,1,,alcance original por fonte,new_case_measurement,3,0.0017970000044442713,0.0019190399965737016,0.0018417999963276088
+BFS,1,,alcance original por fonte,new_case_measurement,4,0.0018417999963276088,0.0019190399965737016,0.0018417999963276088
+BFS,1,,alcance original por fonte,new_case_measurement,5,0.0017787999822758138,0.0019190399965737016,0.0018417999963276088
+DFS,1,,travessia/classificação original por fonte,new_case_measurement,1,0.005772600008640438,0.005378180003026501,0.005286200001137331
+DFS,1,,travessia/classificação original por fonte,new_case_measurement,2,0.005083800002466887,0.005378180003026501,0.005286200001137331
+DFS,1,,travessia/classificação original por fonte,new_case_measurement,3,0.005286200001137331,0.005378180003026501,0.005286200001137331
+DFS,1,,travessia/classificação original por fonte,new_case_measurement,4,0.005260600009933114,0.005378180003026501,0.005286200001137331
+DFS,1,,travessia/classificação original por fonte,new_case_measurement,5,0.005487699992954731,0.005378180003026501,0.005286200001137331
+BFS,8,,alcance original por fonte,new_case_measurement,1,0.0018962000031024218,0.0018623999960254878,0.0018546000064816326
+BFS,8,,alcance original por fonte,new_case_measurement,2,0.0018546000064816326,0.0018623999960254878,0.0018546000064816326
+BFS,8,,alcance original por fonte,new_case_measurement,3,0.0018374999926891178,0.0018623999960254878,0.0018546000064816326
+BFS,8,,alcance original por fonte,new_case_measurement,4,0.0018240000063087791,0.0018623999960254878,0.0018546000064816326
+BFS,8,,alcance original por fonte,new_case_measurement,5,0.0018996999715454876,0.0018623999960254878,0.0018546000064816326
+DFS,8,,travessia/classificação original por fonte,new_case_measurement,1,0.005244700005277991,0.005133880011271685,0.005117700027767569
+DFS,8,,travessia/classificação original por fonte,new_case_measurement,2,0.0050304999749641865,0.005133880011271685,0.005117700027767569
+DFS,8,,travessia/classificação original por fonte,new_case_measurement,3,0.005101900023873895,0.005133880011271685,0.005117700027767569
+DFS,8,,travessia/classificação original por fonte,new_case_measurement,4,0.005174600024474785,0.005133880011271685,0.005117700027767569
+DFS,8,,travessia/classificação original por fonte,new_case_measurement,5,0.005117700027767569,0.005133880011271685,0.005117700027767569
+BFS,1359,,alcance original por fonte,new_case_measurement,1,0.0018068999925162643,0.0017935600015334785,0.0017912000184878707
+BFS,1359,,alcance original por fonte,new_case_measurement,2,0.0017732999986037612,0.0017935600015334785,0.0017912000184878707
+BFS,1359,,alcance original por fonte,new_case_measurement,3,0.0017655999981798232,0.0017935600015334785,0.0017912000184878707
+BFS,1359,,alcance original por fonte,new_case_measurement,4,0.0018307999998796731,0.0017935600015334785,0.0017912000184878707
+BFS,1359,,alcance original por fonte,new_case_measurement,5,0.0017912000184878707,0.0017935600015334785,0.0017912000184878707
+DFS,1359,,travessia/classificação original por fonte,new_case_measurement,1,0.005020700016757473,0.005069299996830523,0.005054799985373393
+DFS,1359,,travessia/classificação original por fonte,new_case_measurement,2,0.005054799985373393,0.005069299996830523,0.005054799985373393
+DFS,1359,,travessia/classificação original por fonte,new_case_measurement,3,0.005176500009838492,0.005069299996830523,0.005054799985373393
+DFS,1359,,travessia/classificação original por fonte,new_case_measurement,4,0.005019799980800599,0.005069299996830523,0.005054799985373393
+DFS,1359,,travessia/classificação original por fonte,new_case_measurement,5,0.0050746999913826585,0.005069299996830523,0.005054799985373393
+Dijkstra,1,638,10-rating; busca completa da fonte e reconstrução do par,new_case_measurement,1,0.005217500001890585,0.005208340001991019,0.005211900017457083
+Dijkstra,1,638,10-rating; busca completa da fonte e reconstrução do par,new_case_measurement,2,0.005501500010723248,0.005208340001991019,0.005211900017457083
+Dijkstra,1,638,10-rating; busca completa da fonte e reconstrução do par,new_case_measurement,3,0.005057799979113042,0.005208340001991019,0.005211900017457083
+Dijkstra,1,638,10-rating; busca completa da fonte e reconstrução do par,new_case_measurement,4,0.005053000000771135,0.005208340001991019,0.005211900017457083
+Dijkstra,1,638,10-rating; busca completa da fonte e reconstrução do par,new_case_measurement,5,0.005211900017457083,0.005208340001991019,0.005211900017457083
+Dijkstra,1,1656,10-rating; busca completa da fonte e reconstrução do par,new_case_measurement,1,0.005161299981409684,0.005540759995346889,0.005332800006726757
+Dijkstra,1,1656,10-rating; busca completa da fonte e reconstrução do par,new_case_measurement,2,0.005332800006726757,0.005540759995346889,0.005332800006726757
+Dijkstra,1,1656,10-rating; busca completa da fonte e reconstrução do par,new_case_measurement,3,0.005251199996564537,0.005540759995346889,0.005332800006726757
+Dijkstra,1,1656,10-rating; busca completa da fonte e reconstrução do par,new_case_measurement,4,0.0055840999993961304,0.005540759995346889,0.005332800006726757
+Dijkstra,1,1656,10-rating; busca completa da fonte e reconstrução do par,new_case_measurement,5,0.006374399992637336,0.005540759995346889,0.005332800006726757
+Dijkstra,1,7450,10-rating; busca completa da fonte e reconstrução do par,new_case_measurement,1,0.00541670000529848,0.00551833999925293,0.005467799986945465
+Dijkstra,1,7450,10-rating; busca completa da fonte e reconstrução do par,new_case_measurement,2,0.005467799986945465,0.00551833999925293,0.005467799986945465
+Dijkstra,1,7450,10-rating; busca completa da fonte e reconstrução do par,new_case_measurement,3,0.005875500006368384,0.00551833999925293,0.005467799986945465
+Dijkstra,1,7450,10-rating; busca completa da fonte e reconstrução do par,new_case_measurement,4,0.005338399991160259,0.00551833999925293,0.005467799986945465
+Dijkstra,1,7450,10-rating; busca completa da fonte e reconstrução do par,new_case_measurement,5,0.005493300006492063,0.00551833999925293,0.005467799986945465
+Dijkstra,8,1219,10-rating; busca completa da fonte e reconstrução do par,new_case_measurement,1,0.00608060002559796,0.006118540000170469,0.00608060002559796
+Dijkstra,8,1219,10-rating; busca completa da fonte e reconstrução do par,new_case_measurement,2,0.005790399998659268,0.006118540000170469,0.00608060002559796
+Dijkstra,8,1219,10-rating; busca completa da fonte e reconstrução do par,new_case_measurement,3,0.005915599991567433,0.006118540000170469,0.00608060002559796
+Dijkstra,8,1219,10-rating; busca completa da fonte e reconstrução do par,new_case_measurement,4,0.0062676999950781465,0.006118540000170469,0.00608060002559796
+Dijkstra,8,1219,10-rating; busca completa da fonte e reconstrução do par,new_case_measurement,5,0.006538399989949539,0.006118540000170469,0.00608060002559796
+Dijkstra,8,1973,10-rating; busca completa da fonte e reconstrução do par,new_case_measurement,1,0.005615200003376231,0.005915859993547201,0.005652199994074181
+Dijkstra,8,1973,10-rating; busca completa da fonte e reconstrução do par,new_case_measurement,2,0.005652199994074181,0.005915859993547201,0.005652199994074181
+Dijkstra,8,1973,10-rating; busca completa da fonte e reconstrução do par,new_case_measurement,3,0.005270399997243658,0.005915859993547201,0.005652199994074181
+Dijkstra,8,1973,10-rating; busca completa da fonte e reconstrução do par,new_case_measurement,4,0.0065015000000130385,0.005915859993547201,0.005652199994074181
+Dijkstra,8,1973,10-rating; busca completa da fonte e reconstrução do par,new_case_measurement,5,0.006539999973028898,0.005915859993547201,0.005652199994074181
+Dijkstra,8,7450,10-rating; busca completa da fonte e reconstrução do par,new_case_measurement,1,0.005170100019313395,0.005646880000131205,0.005170100019313395
+Dijkstra,8,7450,10-rating; busca completa da fonte e reconstrução do par,new_case_measurement,2,0.005101399990962818,0.005646880000131205,0.005170100019313395
+Dijkstra,8,7450,10-rating; busca completa da fonte e reconstrução do par,new_case_measurement,3,0.007081299991114065,0.005646880000131205,0.005170100019313395
+Dijkstra,8,7450,10-rating; busca completa da fonte e reconstrução do par,new_case_measurement,4,0.005099300004076213,0.005646880000131205,0.005170100019313395
+Dijkstra,8,7450,10-rating; busca completa da fonte e reconstrução do par,new_case_measurement,5,0.005782299995189533,0.005646880000131205,0.005170100019313395
+Dijkstra,1359,1021,10-rating; busca completa da fonte e reconstrução do par,new_case_measurement,1,0.005113699997309595,0.00526951999636367,0.005113699997309595
+Dijkstra,1359,1021,10-rating; busca completa da fonte e reconstrução do par,new_case_measurement,2,0.005946399993263185,0.00526951999636367,0.005113699997309595
+Dijkstra,1359,1021,10-rating; busca completa da fonte e reconstrução do par,new_case_measurement,3,0.005691300000762567,0.00526951999636367,0.005113699997309595
+Dijkstra,1359,1021,10-rating; busca completa da fonte e reconstrução do par,new_case_measurement,4,0.004576400009682402,0.00526951999636367,0.005113699997309595
+Dijkstra,1359,1021,10-rating; busca completa da fonte e reconstrução do par,new_case_measurement,5,0.005019799980800599,0.00526951999636367,0.005113699997309595
+Dijkstra,1359,674,10-rating; busca completa da fonte e reconstrução do par,new_case_measurement,1,0.005407299991929904,0.005503039999166503,0.0054616999987047166
+Dijkstra,1359,674,10-rating; busca completa da fonte e reconstrução do par,new_case_measurement,2,0.0054616999987047166,0.005503039999166503,0.0054616999987047166
+Dijkstra,1359,674,10-rating; busca completa da fonte e reconstrução do par,new_case_measurement,3,0.005491499992785975,0.005503039999166503,0.0054616999987047166
+Dijkstra,1359,674,10-rating; busca completa da fonte e reconstrução do par,new_case_measurement,4,0.004773599997861311,0.005503039999166503,0.0054616999987047166
+Dijkstra,1359,674,10-rating; busca completa da fonte e reconstrução do par,new_case_measurement,5,0.006381100014550611,0.005503039999166503,0.0054616999987047166
+Dijkstra,1359,2666,10-rating; busca completa da fonte e reconstrução do par,new_case_measurement,1,0.005682399991201237,0.00545559999300167,0.005587599996943027
+Dijkstra,1359,2666,10-rating; busca completa da fonte e reconstrução do par,new_case_measurement,2,0.004859199980273843,0.00545559999300167,0.005587599996943027
+Dijkstra,1359,2666,10-rating; busca completa da fonte e reconstrução do par,new_case_measurement,3,0.005853600014233962,0.00545559999300167,0.005587599996943027
+Dijkstra,1359,2666,10-rating; busca completa da fonte e reconstrução do par,new_case_measurement,4,0.005587599996943027,0.00545559999300167,0.005587599996943027
+Dijkstra,1359,2666,10-rating; busca completa da fonte e reconstrução do par,new_case_measurement,5,0.00529519998235628,0.00545559999300167,0.005587599996943027
+Bellman-Ford,1,7363,controle DAG com ratings negativos reais,new_case_measurement,1,0.006742899975506589,0.004982079996261745,0.0046141000057104975
+Bellman-Ford,1,7363,controle DAG com ratings negativos reais,new_case_measurement,2,0.006237299996428192,0.004982079996261745,0.0046141000057104975
+Bellman-Ford,1,7363,controle DAG com ratings negativos reais,new_case_measurement,3,0.0046141000057104975,0.004982079996261745,0.0046141000057104975
+Bellman-Ford,1,7363,controle DAG com ratings negativos reais,new_case_measurement,4,0.0037296999944373965,0.004982079996261745,0.0046141000057104975
+Bellman-Ford,1,7363,controle DAG com ratings negativos reais,new_case_measurement,5,0.003586400009226054,0.004982079996261745,0.0046141000057104975
+Bellman-Ford,2,,rede original; detecção/propagação de ciclo negativo,reused_scaling_full_graph_not_new_samples,1,6.4036143999837805,6.405905959999655,6.4036143999837805
+Bellman-Ford,2,,rede original; detecção/propagação de ciclo negativo,reused_scaling_full_graph_not_new_samples,2,6.762021300004562,6.405905959999655,6.4036143999837805
+Bellman-Ford,2,,rede original; detecção/propagação de ciclo negativo,reused_scaling_full_graph_not_new_samples,3,6.511393099994166,6.405905959999655,6.4036143999837805
+Bellman-Ford,2,,rede original; detecção/propagação de ciclo negativo,reused_scaling_full_graph_not_new_samples,4,6.351104300003499,6.405905959999655,6.4036143999837805
+Bellman-Ford,2,,rede original; detecção/propagação de ciclo negativo,reused_scaling_full_graph_not_new_samples,5,6.001396700012265,6.405905959999655,6.4036143999837805

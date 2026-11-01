@@ -1,0 +1,61 @@
+﻿algorithm,fraction,nodes,edges,source,repetition,seconds,weight_model,task
+BFS,0.1,378,332,1,1,6.920000305399299e-05,rating (ignorado por BFS/DFS),árvore de alcance
+BFS,0.1,378,332,1,2,6.210000719875097e-05,rating (ignorado por BFS/DFS),árvore de alcance
+BFS,0.1,378,332,1,3,5.5899989092722535e-05,rating (ignorado por BFS/DFS),árvore de alcance
+BFS,0.1,378,332,1,4,5.269999383017421e-05,rating (ignorado por BFS/DFS),árvore de alcance
+BFS,0.1,378,332,1,5,5.199998850002885e-05,rating (ignorado por BFS/DFS),árvore de alcance
+DFS,0.1,378,332,1,1,0.00013230001786723733,rating (ignorado por BFS/DFS),travessia/classificação
+DFS,0.1,378,332,1,2,0.00013349999790079892,rating (ignorado por BFS/DFS),travessia/classificação
+DFS,0.1,378,332,1,3,0.00011409999569877982,rating (ignorado por BFS/DFS),travessia/classificação
+DFS,0.1,378,332,1,4,0.00010949998977594078,rating (ignorado por BFS/DFS),travessia/classificação
+DFS,0.1,378,332,1,5,0.00010699999984353781,rating (ignorado por BFS/DFS),travessia/classificação
+Dijkstra,0.1,378,332,1,1,0.0001640999980736524,10-rating,menores custos não negativos
+Dijkstra,0.1,378,332,1,2,0.00014109999756328762,10-rating,menores custos não negativos
+Dijkstra,0.1,378,332,1,3,0.00013309999485500157,10-rating,menores custos não negativos
+Dijkstra,0.1,378,332,1,4,0.00013080000644549727,10-rating,menores custos não negativos
+Dijkstra,0.1,378,332,1,5,0.00013040000339969993,10-rating,menores custos não negativos
+Bellman-Ford,0.1,378,332,145,1,0.010435400006826967,rating,menores saldos e detecção/propagação de ciclo negativo
+Bellman-Ford,0.1,378,332,145,2,0.009866700012935326,rating,menores saldos e detecção/propagação de ciclo negativo
+Bellman-Ford,0.1,378,332,145,3,0.010466699983226135,rating,menores saldos e detecção/propagação de ciclo negativo
+Bellman-Ford,0.1,378,332,145,4,0.010551900020800531,rating,menores saldos e detecção/propagação de ciclo negativo
+Bellman-Ford,0.1,378,332,145,5,0.010429400019347668,rating,menores saldos e detecção/propagação de ciclo negativo
+BFS,0.5,1891,6368,1,1,0.001820399978896603,rating (ignorado por BFS/DFS),árvore de alcance
+BFS,0.5,1891,6368,1,2,0.001782100007403642,rating (ignorado por BFS/DFS),árvore de alcance
+BFS,0.5,1891,6368,1,3,0.0015786000003572553,rating (ignorado por BFS/DFS),árvore de alcance
+BFS,0.5,1891,6368,1,4,0.0016082999936770648,rating (ignorado por BFS/DFS),árvore de alcance
+BFS,0.5,1891,6368,1,5,0.0017678000149317086,rating (ignorado por BFS/DFS),árvore de alcance
+DFS,0.5,1891,6368,1,1,0.0028372000087983906,rating (ignorado por BFS/DFS),travessia/classificação
+DFS,0.5,1891,6368,1,2,0.004096299991942942,rating (ignorado por BFS/DFS),travessia/classificação
+DFS,0.5,1891,6368,1,3,0.00502860001870431,rating (ignorado por BFS/DFS),travessia/classificação
+DFS,0.5,1891,6368,1,4,0.0046094999997876585,rating (ignorado por BFS/DFS),travessia/classificação
+DFS,0.5,1891,6368,1,5,0.004308800009312108,rating (ignorado por BFS/DFS),travessia/classificação
+Dijkstra,0.5,1891,6368,1,1,0.005081800016341731,10-rating,menores custos não negativos
+Dijkstra,0.5,1891,6368,1,2,0.00351879998925142,10-rating,menores custos não negativos
+Dijkstra,0.5,1891,6368,1,3,0.004336000012699515,10-rating,menores custos não negativos
+Dijkstra,0.5,1891,6368,1,4,0.004500000010011718,10-rating,menores custos não negativos
+Dijkstra,0.5,1891,6368,1,5,0.004239899979438633,10-rating,menores custos não negativos
+Bellman-Ford,0.5,1891,6368,6,1,1.4648949000111315,rating,menores saldos e detecção/propagação de ciclo negativo
+Bellman-Ford,0.5,1891,6368,6,2,1.624266800004989,rating,menores saldos e detecção/propagação de ciclo negativo
+Bellman-Ford,0.5,1891,6368,6,3,0.9459578999958467,rating,menores saldos e detecção/propagação de ciclo negativo
+Bellman-Ford,0.5,1891,6368,6,4,0.8008474000089336,rating,menores saldos e detecção/propagação de ciclo negativo
+Bellman-Ford,0.5,1891,6368,6,5,0.8094547000073362,rating,menores saldos e detecção/propagação de ciclo negativo
+BFS,1.0,3782,24185,1,1,0.002025499998126179,rating (ignorado por BFS/DFS),árvore de alcance
+BFS,1.0,3782,24185,1,2,0.0018255000177305192,rating (ignorado por BFS/DFS),árvore de alcance
+BFS,1.0,3782,24185,1,3,0.001732699980493635,rating (ignorado por BFS/DFS),árvore de alcance
+BFS,1.0,3782,24185,1,4,0.0018789000168908387,rating (ignorado por BFS/DFS),árvore de alcance
+BFS,1.0,3782,24185,1,5,0.0023469000007025898,rating (ignorado por BFS/DFS),árvore de alcance
+DFS,1.0,3782,24185,1,1,0.005887300008907914,rating (ignorado por BFS/DFS),travessia/classificação
+DFS,1.0,3782,24185,1,2,0.00586559998919256,rating (ignorado por BFS/DFS),travessia/classificação
+DFS,1.0,3782,24185,1,3,0.007214500015834346,rating (ignorado por BFS/DFS),travessia/classificação
+DFS,1.0,3782,24185,1,4,0.005479700019350275,rating (ignorado por BFS/DFS),travessia/classificação
+DFS,1.0,3782,24185,1,5,0.005143799993675202,rating (ignorado por BFS/DFS),travessia/classificação
+Dijkstra,1.0,3782,24185,1,1,0.007213400007458404,10-rating,menores custos não negativos
+Dijkstra,1.0,3782,24185,1,2,0.005871200002729893,10-rating,menores custos não negativos
+Dijkstra,1.0,3782,24185,1,3,0.007544799998868257,10-rating,menores custos não negativos
+Dijkstra,1.0,3782,24185,1,4,0.005437599989818409,10-rating,menores custos não negativos
+Dijkstra,1.0,3782,24185,1,5,0.005450199998449534,10-rating,menores custos não negativos
+Bellman-Ford,1.0,3782,24185,2,1,6.4036143999837805,rating,menores saldos e detecção/propagação de ciclo negativo
+Bellman-Ford,1.0,3782,24185,2,2,6.762021300004562,rating,menores saldos e detecção/propagação de ciclo negativo
+Bellman-Ford,1.0,3782,24185,2,3,6.511393099994166,rating,menores saldos e detecção/propagação de ciclo negativo
+Bellman-Ford,1.0,3782,24185,2,4,6.351104300003499,rating,menores saldos e detecção/propagação de ciclo negativo
+Bellman-Ford,1.0,3782,24185,2,5,6.001396700012265,rating,menores saldos e detecção/propagação de ciclo negativo

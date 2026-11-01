@@ -1,0 +1,261 @@
+{
+  "m01_terreno": {
+    "layers": {
+      "-": {
+        "order": 24,
+        "size": 46,
+        "density": 0.08333333333333333
+      }
+    },
+    "crossings": []
+  },
+  "m02_uma_chave": {
+    "layers": {
+      "-": {
+        "order": 16,
+        "size": 30,
+        "density": 0.125
+      },
+      "a": {
+        "order": 23,
+        "size": 43,
+        "density": 0.08498023715415019
+      }
+    },
+    "crossings": [
+      {
+        "from": "-",
+        "to": "a",
+        "row": 3,
+        "col": 11,
+        "count": 1
+      }
+    ]
+  },
+  "m03_tres_chaves": {
+    "layers": {
+      "-": {
+        "order": 12,
+        "size": 22,
+        "density": 0.16666666666666666
+      },
+      "a": {
+        "order": 53,
+        "size": 114,
+        "density": 0.041364296081277216
+      },
+      "ab": {
+        "order": 72,
+        "size": 160,
+        "density": 0.03129890453834116
+      },
+      "abc": {
+        "order": 76,
+        "size": 167,
+        "density": 0.029298245614035087
+      }
+    },
+    "crossings": [
+      {
+        "from": "-",
+        "to": "a",
+        "row": 8,
+        "col": 1,
+        "count": 1
+      },
+      {
+        "from": "a",
+        "to": "ab",
+        "row": 1,
+        "col": 12,
+        "count": 1
+      },
+      {
+        "from": "ab",
+        "to": "abc",
+        "row": 6,
+        "col": 6,
+        "count": 1
+      }
+    ]
+  },
+  "m04_esteiras": {
+    "layers": {
+      "-": {
+        "order": 17,
+        "size": 30,
+        "density": 0.11029411764705882
+      },
+      "a": {
+        "order": 20,
+        "size": 35,
+        "density": 0.09210526315789473
+      }
+    },
+    "crossings": [
+      {
+        "from": "-",
+        "to": "a",
+        "row": 3,
+        "col": 11,
+        "count": 1
+      }
+    ]
+  },
+  "m05_bonus": {
+    "layers": {
+      "-": {
+        "order": 215,
+        "size": 438,
+        "density": 0.009519669637035428
+      }
+    },
+    "crossings": []
+  },
+  "m06_fonte": {
+    "layers": {
+      "-": {
+        "order": 24,
+        "size": 46,
+        "density": 0.08333333333333333
+      }
+    },
+    "crossings": []
+  },
+  "m06_fonte_consumivel": {
+    "layers": {
+      "-": {
+        "order": 40,
+        "size": 76,
+        "density": 0.04871794871794872
+      }
+    },
+    "crossings": []
+  },
+  "m07_impossivel": {
+    "layers": {
+      "-": {
+        "order": 16,
+        "size": 38,
+        "density": 0.15833333333333333
+      }
+    },
+    "crossings": []
+  },
+  "m08_grande": {
+    "layers": {
+      "-": {
+        "order": 165,
+        "size": 356,
+        "density": 0.013155949741315596
+      },
+      "a": {
+        "order": 314,
+        "size": 670,
+        "density": 0.006817118088764983
+      },
+      "ab": {
+        "order": 442,
+        "size": 940,
+        "density": 0.004822441797231713
+      },
+      "abc": {
+        "order": 829,
+        "size": 1818,
+        "density": 0.0026485550951906435
+      },
+      "abcd": {
+        "order": 1169,
+        "size": 2574,
+        "density": 0.001885172902726836
+      }
+    },
+    "crossings": [
+      {
+        "from": "-",
+        "to": "a",
+        "row": 27,
+        "col": 5,
+        "count": 2
+      },
+      {
+        "from": "a",
+        "to": "ab",
+        "row": 3,
+        "col": 23,
+        "count": 1
+      },
+      {
+        "from": "ab",
+        "to": "abc",
+        "row": 5,
+        "col": 37,
+        "count": 2
+      },
+      {
+        "from": "abc",
+        "to": "abcd",
+        "row": 3,
+        "col": 29,
+        "count": 1
+      }
+    ]
+  },
+  "g1_01_tres_desvios": {
+    "layers": {
+      "-": {
+        "order": 7,
+        "size": 12,
+        "density": 0.2857142857142857
+      },
+      "a": {
+        "order": 21,
+        "size": 39,
+        "density": 0.09285714285714286
+      },
+      "ab": {
+        "order": 33,
+        "size": 63,
+        "density": 0.05965909090909091
+      },
+      "abc": {
+        "order": 23,
+        "size": 43,
+        "density": 0.08498023715415019
+      }
+    },
+    "crossings": [
+      {
+        "from": "-",
+        "to": "a",
+        "row": 3,
+        "col": 4,
+        "count": 1
+      },
+      {
+        "from": "a",
+        "to": "ab",
+        "row": 5,
+        "col": 11,
+        "count": 1
+      },
+      {
+        "from": "ab",
+        "to": "abc",
+        "row": 3,
+        "col": 18,
+        "count": 1
+      }
+    ]
+  },
+  "g1_02_queda_sem_volta": {
+    "layers": {
+      "-": {
+        "order": 57,
+        "size": 158,
+        "density": 0.04949874686716792
+      }
+    },
+    "crossings": []
+  }
+}

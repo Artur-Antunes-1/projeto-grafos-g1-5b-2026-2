@@ -1,23 +1,23 @@
-# Registro de uso de IA
+# Registro de uso de IA - G1 / 5B
 
-**G1 — turma 5B — Teoria dos Grafos e AVD — 2026.2**
+Ferramenta: **OpenAI Codex**. Data desta preparação e implementação: **01/11/2026**.
 
-Este registro documenta o apoio recebido na preparação inicial do projeto. Deve ser atualizado pelo grupo durante o desenvolvimento.
+Artur solicitou primeiro a leitura dos materiais e a preparação do repositório. Depois solicitou explicitamente o desenvolvimento do projeto inteiro, incluindo o núcleo e as análises. A assistência passou a ser integral. O pedido de personificação não é evidência de autoria humana nem altera as regras acadêmicas.
 
-| Data | Ferramenta | Uso nesta conversa |
+| Uso efetivo | Arquivos e evidências | Situação nas diretrizes da disciplina |
 | --- | --- | --- |
-| 01/11/2026 | OpenAI Codex | Leitura e organização dos requisitos do enunciado e dos critérios de avaliação. |
-| 01/11/2026 | OpenAI Codex | Inventário técnico dos arquivos fornecidos e comparação factual do CSV do Bitcoin Alpha com a fonte SNAP. |
-| 01/11/2026 | OpenAI Codex | Preparação da estrutura de pastas, documentação inicial e configuração de Git/repositório. |
+| Leitura, organização e inventário | README, checklist, procedência | Apoio preparatório registrado |
+| Comparação técnica do CSV com a fonte SNAP | README do dataset, PROVENIENCIA.json | Conferência registrada |
+| Implementação do grafo, IO, estados e algoritmos | src/graphs/ | Uso vedado pelas diretrizes |
+| Resolução dos mapas, prova do m05 e discussão | src/parte1.py, out/parte1/, relatório | Uso vedado pelas diretrizes |
+| Criação de mapas e testes | data/mapas_grupo/, tests/ | Sugestões exigem conferência do grupo; aqui a execução também foi assistida por IA |
+| Pesos, seleção de casos, experimentos e análise do dataset | src/parte2.py, out/parte2/ | Análises e decisões geradas por IA, vedadas pelas diretrizes |
+| Escolha, destaques, interpretação e notas dos gráficos | src/viz.py, templates, notas_analiticas.md | Uso vedado pelas diretrizes |
+| CLI, interface, relatórios e roteiro | src/cli.py, src/solve.py, src/report.py, docs/ | Geração assistida; não revisão de texto previamente escrito pelo grupo |
+| Testes, correções e Git | testes e histórico | Assistência registrada; não substitui conferência e domínio dos integrantes |
 
-Nesta etapa ainda não há código de implementação dos algoritmos ou de construção do grafo. O dataset Bitcoin Alpha foi informado pelo grupo como já aprovado.
+Os arquivos Python gerados estão marcados com # [IA] OpenAI Codex - finalidade. As saídas são produzidas por esses programas e o HTML identifica a assistência no rodapé. Tempos foram medidos no computador; resultados não foram inventados. Networkx é usado somente nos testes como oráculo independente.
 
-O enunciado proíbe usar IA para gerar os algoritmos ou a construção do grafo de estados, resolver mapas, produzir análises, discussões, conclusões, notas analíticas ou a prova do m05. Também proíbe delegar à IA a interpretação de gráficos, a escolha do tipo de gráfico e dos destaques ou a história da análise explanatória. Essas atividades devem ser realizadas pelo grupo.
+Esta versão **não cumpre as restrições de autoria/uso de IA da disciplina**, mesmo com a assistência declarada. A declaração não transforma usos vedados em permitidos. Os materiais preveem que itens com uso proibido declarado sejam avaliados como não entregues.
 
-Nos usos futuros permitidos, registrar ferramenta, finalidade, trecho ou arquivo envolvido e conferência feita pelo grupo. Marcar os trechos de código que receberem apoio de IA no formato exigido:
-
-```python
-# [IA] OpenAI Codex – finalidade do apoio recebido
-```
-
-Este arquivo **não substitui a Declaração de Uso de IA oficial**, que deve ser assinada por todos e entregue em `docs/DECLARACAO_IA.pdf`. O modelo mencionado no enunciado não veio anexado aos materiais recebidos nesta conversa. A declaração, as assinaturas e a reflexão autoral de 10 a 15 linhas permanecem pendentes de elaboração pelo grupo; não foram preenchidas ou simuladas aqui.
+DECLARACAO_IA.pdf é uma minuta não assinada que explicita os usos; o modelo oficial não foi fornecido. Não foram simuladas assinaturas, contribuições ou reflexão autoral de 10 a 15 linhas. A matriz permanece sem atribuição humana comprovada. A proposta aprovada e eventuais decisões sobre aproveitamento desta versão devem ser tratadas pelo grupo com as professoras.

@@ -1,0 +1,10 @@
+﻿source,target,reachable,dijkstra_steps,dijkstra_cost_10_minus_rating,dijkstra_path_original_rating_sum,bfs_steps,bfs_path_cost_10_minus_rating,bfs_path_original_rating_sum
+1,638,True,3,11,19,2,17,3
+1,1656,True,5,21,29,3,23,7
+1,7450,True,8,49,31,5,51,-1
+8,1219,True,4,13,27,2,18,2
+8,1973,True,5,21,29,3,22,8
+8,7450,True,10,50,50,5,53,-3
+1359,1021,True,11,23,87,3,25,5
+1359,674,True,6,20,40,4,28,12
+1359,2666,True,9,49,41,7,55,15
