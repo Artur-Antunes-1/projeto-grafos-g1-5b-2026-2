@@ -1,0 +1,103 @@
+{
+  "group": "G1",
+  "class": "5B",
+  "semester": "2026.2",
+  "prepared_on": "2026-11-01",
+  "dataset_approval": {
+    "status": "confirmado_por_Artur",
+    "evidence": "Informado por Artur nesta conversa; documento de aprovação ainda não fornecido."
+  },
+  "materials": [
+    {
+      "source_filename": "CRITERIOS_PROJETO_2026-2.pdf",
+      "repository_path": "docs/referencias/CRITERIOS_PROJETO_2026-2.pdf",
+      "sha256": "a7f8a2b7ea57b9360ecd87e044eec9dcb0f0e25da354ef928ce63bae68cec825"
+    },
+    {
+      "source_filename": "Projeto_Final_TEORIADOSGRAFOS262-1.pdf",
+      "repository_path": "docs/referencias/Projeto_Final_TEORIADOSGRAFOS262-1.pdf",
+      "sha256": "f9f6b8b1db55c7e61cb9d4e9374103e67838bb48d28f4fd4e1fbd887ca1931aa"
+    },
+    {
+      "source_archive": "mapas_2026-2.zip",
+      "archive_sha256": "b719dfe3e22e08068526273c11412f41d6a949158c561e7c8dbe872eed084ace",
+      "member": "mapas/m01_terreno.txt",
+      "repository_path": "data/mapas/m01_terreno.txt",
+      "sha256": "0c9451fb868d2a20c240c3e32730c4e571f03de96a500177e88439bf00d9ef68"
+    },
+    {
+      "source_archive": "mapas_2026-2.zip",
+      "archive_sha256": "b719dfe3e22e08068526273c11412f41d6a949158c561e7c8dbe872eed084ace",
+      "member": "mapas/m02_uma_chave.txt",
+      "repository_path": "data/mapas/m02_uma_chave.txt",
+      "sha256": "c44e22e291551733493cc6ad50387aca8492fa70f47717d69dd5a802c6fbd172"
+    },
+    {
+      "source_archive": "mapas_2026-2.zip",
+      "archive_sha256": "b719dfe3e22e08068526273c11412f41d6a949158c561e7c8dbe872eed084ace",
+      "member": "mapas/m03_tres_chaves.txt",
+      "repository_path": "data/mapas/m03_tres_chaves.txt",
+      "sha256": "10425fdfc3307874e9f755dc92e51e80caac2eddce7aac3c83621e6dab296b15"
+    },
+    {
+      "source_archive": "mapas_2026-2.zip",
+      "archive_sha256": "b719dfe3e22e08068526273c11412f41d6a949158c561e7c8dbe872eed084ace",
+      "member": "mapas/m04_esteiras.txt",
+      "repository_path": "data/mapas/m04_esteiras.txt",
+      "sha256": "ad2ab4e33bffb0a401b3fe1642ececd55438f95fd316ee5e057ac75ba4d904f3"
+    },
+    {
+      "source_archive": "mapas_2026-2.zip",
+      "archive_sha256": "b719dfe3e22e08068526273c11412f41d6a949158c561e7c8dbe872eed084ace",
+      "member": "mapas/m05_bonus.txt",
+      "repository_path": "data/mapas/m05_bonus.txt",
+      "sha256": "06e96db15db8bbe0cb46e28792eb74b00e68c157ff390712c58f1b0410990c53"
+    },
+    {
+      "source_archive": "mapas_2026-2.zip",
+      "archive_sha256": "b719dfe3e22e08068526273c11412f41d6a949158c561e7c8dbe872eed084ace",
+      "member": "mapas/m06_fonte.txt",
+      "repository_path": "data/mapas/m06_fonte.txt",
+      "sha256": "636615830b92d45cef33727790a5c2222b91327c0aa49781b77c440f8f0c8ebc"
+    },
+    {
+      "source_archive": "mapas_2026-2.zip",
+      "archive_sha256": "b719dfe3e22e08068526273c11412f41d6a949158c561e7c8dbe872eed084ace",
+      "member": "mapas/m07_impossivel.txt",
+      "repository_path": "data/mapas/m07_impossivel.txt",
+      "sha256": "793cf278512f79b8bef06eb88b025794fbca8753503837fac2c67757881d7c80"
+    },
+    {
+      "source_archive": "mapas_2026-2.zip",
+      "archive_sha256": "b719dfe3e22e08068526273c11412f41d6a949158c561e7c8dbe872eed084ace",
+      "member": "mapas/m08_grande.txt",
+      "repository_path": "data/mapas/m08_grande.txt",
+      "sha256": "158116fd16ed5b9d1c10e992f27b5dfc55ba64ce4ce9d4f3a44d643926d588ce"
+    },
+    {
+      "source_archive": "archive (28).zip",
+      "archive_sha256": "20206544aa1764028c3d503e04c482622fed160f75b2d955f658f0305759365f",
+      "member": "bitcoinalpha.csv",
+      "repository_path": "data/dataset_parte2/bitcoinalpha.csv",
+      "sha256": "d2f121d67f325ba2dfbbf0e9708843d7c9b0f898494957fb6b1b239db5150c8a"
+    }
+  ],
+  "dataset_source": {
+    "page": "https://snap.stanford.edu/data/soc-sign-bitcoin-alpha.html",
+    "download": "https://snap.stanford.edu/data/soc-sign-bitcoinalpha.csv.gz",
+    "comparison": {
+      "received_records": 24185,
+      "received_nodes": 3782,
+      "original_records": 24186,
+      "original_nodes": 3783,
+      "only_original_record": [
+        "7188",
+        "1",
+        "10",
+        "1407470400"
+      ],
+      "remaining_records_same_order": true,
+      "original_gzip_sha256": "3a178611b9c2f39c9a0dc75936f28557317f1733319b49da4838232b3757cd76"
+    }
+  }
+}

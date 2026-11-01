@@ -1,0 +1,4 @@
+# Dependências iniciais; ajustar conforme a implementação feita pelo grupo.
+pytest
+pandas
+matplotlib
