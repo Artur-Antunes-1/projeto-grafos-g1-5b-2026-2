@@ -39,6 +39,12 @@ Esse comando recalcula os resultados, executa os benchmarks reais e gera as figu
 
 Os resultados já estão incluídos em out/ e os documentos em docs/. Abra **out/parte1/labirinto_interativo.html** no navegador. A interface funciona sem servidor e sem internet.
 
+## Site publicado
+
+O labirinto está disponível em [GitHub Pages](https://artur-antunes-1.github.io/projeto-grafos-g1-5b-2026-2/).
+
+O workflow .github/workflows/pages.yml publica apenas o HTML interativo como index.html, sem recalcular os experimentos. Atualizações desse HTML na branch main são publicadas automaticamente; a opção Run workflow permite republicar manualmente. Para atualizar os resultados do site, execute o projeto e envie o HTML regenerado ao repositório.
+
 ## Comandos individuais
 
 ~~~powershell
